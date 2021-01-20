@@ -1,0 +1,23 @@
+﻿  Using triplet "x64-windows" from "E:\vcpkg\installed\x64-windows\"
+  PBR_Render.cpp
+E:\OpenGL\include\init.h(182,36): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\OpenGL\include\init.h(187,36): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\OpenGL\include\init.h(200,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\OpenGL\include\init.h(201,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\OpenGL\include\init.h(206,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\OpenGL\include\init.h(207,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\OpenGL\include\init.h(208,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\OpenGL\include\init.h(209,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\OpenGL\include\init.h(218,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\OpenGL\include\LearnOpenGL\model.h(17,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\OpenGL\include\LearnOpenGL\mesh.h(85,68): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+E:\OpenGL\include\LearnOpenGL\mesh.h(92,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Frisk\source\repos\PBR_Render\PBR_Render\PBR_Render.cpp(264,31): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Frisk\source\repos\PBR_Render\PBR_Render\PBR_Render.cpp(265,32): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Frisk\source\repos\PBR_Render\PBR_Render\PBR_Render.cpp(332,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Frisk\source\repos\PBR_Render\PBR_Render\PBR_Render.cpp(486,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Frisk\source\repos\PBR_Render\PBR_Render\PBR_Render.cpp(524,36): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Frisk\source\repos\PBR_Render\PBR_Render\PBR_Render.cpp(552,57): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\Frisk\source\repos\PBR_Render\PBR_Render\PBR_Render.cpp(554,57): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\Frisk\source\repos\PBR_Render\PBR_Render\PBR_Render.cpp(556,57): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+  PBR_Render.vcxproj -> C:\Users\Frisk\source\repos\PBR_Render\x64\Debug\PBR_Render.exe
